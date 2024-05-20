@@ -5,21 +5,23 @@ import { FiPlus } from "react-icons/fi";
 
 
 
-const increment = () => {
+const Increment = () => {
     // eslint-disable-next-line react-hooks/rules-of-hooks
     const [count, setCount] = useState(1);
 
-  const incrementCount = () => {
-    if (count < 5) {
-      setCount(count + 1);
+    const incrementCount = () => {
+      setCount(count + 1)
+      if(count===5){
+       setCount(count) 
+      }
+    };
+  
+    const decrementCount = () => {
+      setCount(count-1)
+      if (count===1) {
+        setCount(count); 
+      }
     }
-  };
-
-  const decrementCount = () => {
-    if (count > 1) {
-      setCount(count - 1);
-    }
-  }
   return (
     <div className="h-7 w-20 border-[#000000] rounded-[7px] border-[1px] flex pb-[2px] xl:pl-[5px] lg:h-[30px] lg:w-[85px] xl:h-[32px] xl:w-[90px] 2xl:h-[40px] 2xl:w-[121px] 2xl:rounded-[11px]">
     <div
@@ -41,4 +43,4 @@ const increment = () => {
   )
 }
 
-export default increment
+export default Increment
