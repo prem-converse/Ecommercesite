@@ -386,6 +386,4 @@ body {
   
   background-color: #099DBD; 
 }
-.button, input, optgroup, select, textarea {
-  text-transform: lowercase;
-}
+

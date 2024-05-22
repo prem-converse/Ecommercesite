@@ -285,12 +285,9 @@ export default function BasicTabs () {
                 Width: 1.34 m, Length: 74 cm
               </span>
             </h3>
-            {/* XS : Width: 94 cm, Length: 67 cm 
-S : Width: 1.02 m, Length: 69 cm
-M : Width: 1.10 m, Length: 70 cm
-L : Width: 1.18 m, Length: 72 cm
-XL : Width: 1.26 m, Length: 73 cm
-XXL : Width: 1.34 m, Length: 74 cm */}
+
+           
+
           </div>
           <div>
             <h2 className='interFont font-semibold text-[14px] lg:text-[15px] 2xl:text-[18px] pb-2 pt-3 2xl:pt-7 xl:pb-2.5 2xl:pb-6'>
