@@ -31,20 +31,7 @@ const Page = () => {
 
           <Icons3 />
 
-          {/* <div className='bg-[rgb(247,252,253)] h-[100px] w-[350px] lg:h-[105px] lg:w-[370px] xl:h-[110px] xl:w-[430px] 2xl:h-[121px] 2xl:w-[611px] ml-[6px] mt-[29px] rounded-[5px] relative lg:mt-[12px] xl:mt-[16px] xl:ml-[12px] 2xl:mt-[25px]'>
-            <FaShop className='text-[rgb(9,157,189)] text-[17px] 2xl:text-[23px] absolute left-[19px] top-[30px] lg:top-[35px] 2xl:left-[50px]' />
-
-            <div className='flex  pt-[30px] lg:pt-[35px]'>
-              <p className='font-medium text-[10px] lg:text-[11px] xl:text-[13px] 2xl:text-[16px] interFont pl-[39px] 2xl:pl-[83px] pr-[55px] ml-[5px]'>
-                {' '}
-                Online shop Activewear Limited,
-                <br />
-                Mumbai , Maharashtra.{' '}
-              </p>
-            </div>
-
-          </div> */}
-        </div>
+         </div>
 
         <div className=' h-full w-2/5 lg:w-[47%] lg:h-full xl:h-full xl:w-[50%]  2xl:w-[48%] 2xl:h-full pt-3 pl-1 lg:pl-3 2xl:pt-[22px]  lg:pt-5 xl:pl-2 2xl:pl-[24px]'>
           <h2 className='font-bold text-[13px] interFont lg:text-[14px] xl:text-[16px] 2xl:text-[18px] '>

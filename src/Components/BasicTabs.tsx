@@ -405,10 +405,10 @@ XXL : Width: 1.34 m, Length: 74 cm */}
                 <span className='text-[15px] rounded-[50%] bg-[#E7F4FC] h-4 w-4.5 2xl:h-4.5 2xl:w-5 2xl:rounded-[50%] flex justify-center items-center text-gray-600'>
                   <TiTick />
                 </span>
-                <p className='interFont font-normal pl-1.5 2xl:pl-3.5 text-[12px] lg:text-[13px] xl:text-[14px] 2xl:text-[16px] '>
+                <p className='interFont font-medium pl-1.5 2xl:pl-3.5 text-[12px] lg:text-[13px] xl:text-[14px] 2xl:text-[16px] '>
                   Ideal Specification <br />
-                  Ideal For :{' '}
-                  <span className='text-[#29334199]'>Men, Unisex, Boy</span>
+                  <p className='2xl:mt-1 font-normal'>Ideal For :{' '}
+                  <span className='text-[#29334199]'>Men, Unisex, Boy</span></p>
                 </p>
               </div>
 
@@ -416,71 +416,71 @@ XXL : Width: 1.34 m, Length: 74 cm */}
                 <span className='text-[15px] rounded-[50%] bg-[#E7F4FC] h-4 w-4.5 2xl:h-4.5 2xl:w-5 2xl:rounded-[50%] flex justify-center items-center text-gray-600'>
                   <TiTick />
                 </span>
-                <p className='interFont font-normal pl-1.5 2xl:pl-3.5 text-[12px] lg:text-[13px] xl:text-[14px] 2xl:text-[16px] '>
+                <p className='interFont font-medium pl-1.5 2xl:pl-3.5 text-[12px] lg:text-[13px] xl:text-[14px] 2xl:text-[16px] '>
                   Occasion Specification <br />
-                  Occasion : <span className='text-[#29334199]'>Casual </span>
+                 <p className='2xl:mt-1 font-normal'> Occasion : <span className='text-[#29334199]'>Casual </span></p>
                 </p>
               </div>
               <div className='flex pb-1.5 lg:pb-2 2xl:pb-4'>
                 <span className='text-[15px] rounded-[50%] bg-[#E7F4FC] h-4 w-4.5 2xl:h-4.5 2xl:w-5 2xl:rounded-[50%] flex justify-center items-center text-gray-600'>
                   <TiTick />
                 </span>
-                <p className='interFont font-normal pl-1.5 2xl:pl-3.5 text-[12px] lg:text-[13px] xl:text-[14px] 2xl:text-[16px] '>
+                <p className='interFont font-medium pl-1.5 2xl:pl-3.5 text-[12px] lg:text-[13px] xl:text-[14px] 2xl:text-[16px] '>
                   Prints & Patterns Details <br />
-                  Prints & Patterns :{' '}
-                  <span className='text-[#29334199]'>Solid </span>
+                 <p className='2xl:mt-1 font-normal'> Prints & Patterns :{' '}
+                  <span className='text-[#29334199]'>Solid </span></p>
                 </p>
               </div>
               <div className='flex pb-1.5 lg:pb-2 2xl:pb-4'>
                 <span className='text-[15px] rounded-[50%] bg-[#E7F4FC] h-4 w-4.5 2xl:h-4.5 2xl:w-5 2xl:rounded-[50%] flex justify-center items-center text-gray-600'>
                   <TiTick />
                 </span>
-                <p className='interFont font-normal pl-1.5 2xl:pl-3.5 text-[12px] lg:text-[13px] xl:text-[14px] 2xl:text-[16px] '>
+                <p className='interFont font-medium pl-1.5 2xl:pl-3.5 text-[12px] lg:text-[13px] xl:text-[14px] 2xl:text-[16px] '>
                   Wash Care Detail <br />
-                  Wash Care :{' '}
+                 <p className='2xl:mt-1 font-normal'> Wash Care :{' '}
                   <span className='text-[#29334199]'>
                     Machine Wash & Hand Wash{' '}
-                  </span>
+                  </span></p>
                 </p>
               </div>
               <div className='flex pb-1.5 lg:pb-2 2xl:pb-4'>
                 <span className='text-[15px] rounded-[50%] bg-[#E7F4FC] h-4 w-4.5 2xl:h-4.5 2xl:w-5 2xl:rounded-[50%] flex justify-center items-center text-gray-600'>
                   <TiTick />
                 </span>
-                <p className='interFont font-normal pl-1.5 2xl:pl-3.5 text-[12px] lg:text-[13px] xl:text-[14px] 2xl:text-[16px] '>
+                <p className='interFont font-medium pl-1.5 2xl:pl-3.5 text-[12px] lg:text-[13px] xl:text-[14px] 2xl:text-[16px] '>
                   Color Set Details <br />
-                  Color Family:{' '}
+                  <p className='2xl:mt-1 font-normal'>Color Family:{' '}
                   <span className='text-[#29334199]'>
                     {' '}
                     Black, Green, Maroon, Multicolor, Red, White{' '}
-                  </span>
+                  </span></p>
                 </p>
               </div>
               <div className='flex pb-1.5 lg:pb-2 2xl:pb-4'>
                 <span className='text-[15px] rounded-[50%] bg-[#E7F4FC] h-4 w-4.5 2xl:h-4.5 2xl:w-5 2xl:rounded-[50%] flex justify-center items-center text-gray-600'>
                   <TiTick />
                 </span>
-                <p className='interFont font-normal pl-1.5 2xl:pl-3.5 text-[12px] lg:text-[13px] xl:text-[14px] 2xl:text-[16px] '>
+                <p className='interFont font-medium pl-1.5 2xl:pl-3.5 text-[12px] lg:text-[13px] xl:text-[14px] 2xl:text-[16px] '>
                   Fabric Specification for Western <br />
-                  Fabric: <span className='text-[#29334199]'> 100% Cotton</span>
+                 <p className='2xl:mt-1 font-normal'> Fabric: <span className='text-[#29334199]'> 100% Cotton</span></p>
                 </p>
               </div>
               <div className='flex pb-1.5 lg:pb-2 2xl:pb-4'>
                 <span className='text-[15px] rounded-[50%] bg-[#E7F4FC] h-4 w-4.5 2xl:h-4.5 2xl:w-5 2xl:rounded-[50%] flex justify-center items-center text-gray-600'>
                   <TiTick />
                 </span>
-                <p className='interFont font-normal pl-1.5 2xl:pl-3.5 text-[12px] lg:text-[13px] xl:text-[14px] 2xl:text-[16px] '>
+                <p className='interFont font-medium pl-1.5 2xl:pl-3.5 text-[12px] lg:text-[13px] xl:text-[14px] 2xl:text-[16px] '>
                   Combo Attribute for Men&apos;s Apparel <br />
-                  Combo: <span className='text-[#29334199]'>Pack of 1 </span>
+                <p className='2xl:mt-1 font-normal'>  Combo: <span className='text-[#29334199]'>Pack of 1 </span></p>
                 </p>
               </div>
               <div className='flex pb-1.5 lg:pb-2 2xl:pb-4'>
                 <span className='text-[15px] rounded-[50%] bg-[#E7F4FC] h-4 w-4.5 2xl:h-4.5 2xl:w-5 2xl:rounded-[50%] flex justify-center items-center text-gray-600'>
                   <TiTick />
                 </span>
-                <p className='interFont font-normal pl-1.5 2xl:pl-3.5 text-[12px] lg:text-[13px] xl:text-[14px] 2xl:text-[16px] '>
+                <p className='interFont font-medium pl-1.5 2xl:pl-3.5 text-[12px] lg:text-[13px] xl:text-[14px] 2xl:text-[16px] '>
                   Collar Specification <br />
-                  Collar: <span className='text-[#29334199]'>Round Neck</span>
+                 <p className='2xl:mt-1 font-normal'> Collar: <span className='text-[#29334199]'>Round Neck</span></p>
                 </p>
               </div>
             </div>
