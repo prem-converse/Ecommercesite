@@ -500,13 +500,13 @@ export default function BasicTabs () {
                   Product Type :{' '}
                 </p>
 
-                <span className='text-[#29334199] hover:text-[#099DBD] hover:translate-y-[-5px] duration-500  text-[11px] lg:text-[12px] xl:text-[13px] 2xl:text-[14px] pl-2'>
+                <span className='text-[#29334199] 2xl:pt-1 hover:text-[#099DBD] hover:translate-y-[-5px] duration-500  text-[11px] lg:text-[12px] xl:text-[13px] 2xl:text-[14px] pl-2'>
                   Men&apos;s T-Shirts & Polos{' '}
                 </span>
-                <span className='text-[#29334199] text-[15px] lg:text-[15px] xl:text-[15px] 2xl:text-[18px] pl-2'>
+                <span className='text-[#29334199] 2xl:pt-1 text-[15px] lg:text-[15px] xl:text-[15px] 2xl:text-[18px] pl-2'>
                   <MdNavigateNext />{' '}
                 </span>
-                <span className='text-[#29334199] hover:text-[#099DBD] hover:translate-y-[-5px] duration-500  text-[11px] lg:text-[12px] xl:text-[13px] 2xl:text-[14px] pl-2'>
+                <span className='text-[#29334199] 2xl:pt-1 hover:text-[#099DBD] hover:translate-y-[-5px] duration-500  text-[11px] lg:text-[12px] xl:text-[13px] 2xl:text-[14px] pl-2'>
                   T-Shirt for Men&apos;s
                 </span>
               </div>
@@ -530,31 +530,31 @@ export default function BasicTabs () {
               <p className='interFont font-normal pl-1.5 2xl:pl-3.5 text-[12px] lg:text-[13px] xl:text-[14px] 2xl:text-[16px] '>
                 Color :{' '}
               </p>
-              <span className='text-[#29334199] text-[11px] lg:text-[12px] xl:text-[13px] 2xl:text-[14px] pl-2 hover:text-[#099DBD] hover:translate-y-[-5px] duration-500'>
+              <span className='text-[#29334199] text-[11px] lg:text-[12px] xl:text-[13px] 2xl:text-[14px] pl-2 2xl:pt-1 hover:text-[#099DBD] hover:translate-y-[-5px] duration-500'>
                 White{' '}
               </span>
-              <span className='text-[#29334199] text-[15px] lg:text-[15px] xl:text-[15px] 2xl:text-[18px] pl-2'>
+              <span className='text-[#29334199] text-[15px] lg:text-[15px] xl:text-[15px] 2xl:text-[18px] pl-2 2xl:pt-1'>
                 <MdNavigateNext />{' '}
               </span>
-              <span className='text-[#29334199] text-[11px] lg:text-[12px] xl:text-[13px] 2xl:text-[14px] pl-2 hover:text-[#099DBD] hover:translate-y-[-5px] duration-500'>
+              <span className='text-[#29334199] text-[11px] lg:text-[12px] xl:text-[13px] 2xl:text-[14px] pl-2 2xl:pt-1 hover:text-[#099DBD] hover:translate-y-[-5px] duration-500'>
                 Black
               </span>
-              <span className='text-[#29334199] text-[15px] lg:text-[15px] xl:text-[15px] 2xl:text-[18px] pl-2'>
+              <span className='text-[#29334199] text-[15px] lg:text-[15px] xl:text-[15px] 2xl:text-[18px] pl-2 2xl:pt-1'>
                 <MdNavigateNext />{' '}
               </span>
-              <span className='text-[#29334199] text-[11px] lg:text-[12px] xl:text-[13px] 2xl:text-[14px] pl-2 hover:text-[#099DBD] hover:translate-y-[-5px] duration-500'>
+              <span className='text-[#29334199] text-[11px] lg:text-[12px] xl:text-[13px] 2xl:text-[14px] pl-2 2xl:pt-1 hover:text-[#099DBD] hover:translate-y-[-5px] duration-500'>
                 Pink{' '}
               </span>
-              <span className='text-[#29334199]text-[15px] lg:text-[15px] xl:text-[15px] 2xl:text-[18px] pl-2'>
+              <span className='text-[#29334199]text-[15px] lg:text-[15px] xl:text-[15px] 2xl:text-[18px] pl-2 2xl:pt-1'>
                 <MdNavigateNext />
               </span>
-              <span className='text-[#29334199] text-[11px] lg:text-[12px] xl:text-[13px] 2xl:text-[14px] pl-2 hover:text-[#099DBD] hover:translate-y-[-5px] duration-500'>
+              <span className='text-[#29334199] text-[11px] lg:text-[12px] xl:text-[13px] 2xl:text-[14px] pl-2 2xl:pt-1 hover:text-[#099DBD] hover:translate-y-[-5px] duration-500'>
                 Grey{' '}
               </span>
-              <span className='text-[#29334199] text-[15px] lg:text-[15px] xl:text-[15px] 2xl:text-[18px] pl-2'>
+              <span className='text-[#29334199] text-[15px] lg:text-[15px] xl:text-[15px] 2xl:text-[18px] pl-2 2xl:pt-1'>
                 <MdNavigateNext />
               </span>
-              <span className='text-[#29334199] text-[11px] lg:text-[12px] xl:text-[13px] 2xl:text-[14px] pl-2 hover:text-[#099DBD] hover:translate-y-[-5px] duration-500'>
+              <span className='text-[#29334199] text-[11px] lg:text-[12px] xl:text-[13px] 2xl:text-[14px] pl-2 2xl:pt-1 hover:text-[#099DBD] hover:translate-y-[-5px] duration-500'>
                 Blue{' '}
               </span>
             </div>
@@ -608,13 +608,13 @@ export default function BasicTabs () {
               <span className='text-[15px] rounded-[50%] bg-[#E7F4FC] h-4 w-4.5 2xl:h-4.5 2xl:w-5 2xl:rounded-[50%] flex justify-center items-center text-gray-600'>
                 <TiTick />
               </span>
-              <p className='interFont font-normal pl-1.5 2xl:pl-3.5 text-[12px] lg:text-[13px] xl:text-[14px] 2xl:text-[16px] '>
+              <p className='interFont font-normal pl-1.5 2xl:pl-3.5 text-[12px] lg:text-[13px] xl:text-[14px] 2xl:text-[16px]  '>
                 Size :{' '}
               </p>
-              <span className='text-[#29334199] text-[11px] lg:text-[12px] xl:text-[13px] 2xl:text-[14px] pl-2 hover:text-[#099DBD] hover:translate-y-[-5px] duration-500'>
+              <span className='text-[#29334199] text-[11px] lg:text-[12px] xl:text-[13px] 2xl:text-[14px] pl-2 2xl:flex 2xl:items-end hover:text-[#099DBD] hover:translate-y-[-5px] duration-500'>
                 XS{' '}
               </span>
-              <span className='text-[#29334199] text-[15px] lg:text-[15px] xl:text-[15px] 2xl:text-[18px] pl-2'>
+              <span className='text-[#29334199] text-[15px] lg:text-[15px] xl:text-[15px] 2xl:text-[18px] pl-2 '>
                 <MdNavigateNext />{' '}
               </span>
               <span className='text-[#29334199] text-[11px] lg:text-[12px] xl:text-[13px] 2xl:text-[14px] pl-2 hover:text-[#099DBD] hover:translate-y-[-5px] duration-500'>
