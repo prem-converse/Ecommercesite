@@ -4,6 +4,7 @@ import * as Slider from '@radix-ui/react-slider'
 import Image from 'next/image'
 import { IoStarSharp } from 'react-icons/io5'
 import { IoMdStar } from 'react-icons/io'
+// import Star from '../Components/Star'
 
 const Range = () => {
   return (
@@ -61,7 +62,7 @@ const Range = () => {
                 max={100}
                 step={1}
               >
-                <Slider.Track className='SliderTrack'>
+                <Slider.Track className='SliderTrack '>
                   <Slider.Range className='SliderRange' />
                 </Slider.Track>
                 <Slider.Thumb className='SliderThumb' aria-label='Volume' />
@@ -109,7 +110,25 @@ const Range = () => {
                 <Slider.Thumb className='SliderThumb' aria-label='Volume' />
               </Slider.Root>
             </form>
-          </div>
+
+            
+
+{/* <div className='bg-gray-300 h-1 w-15  rounded-[10px]'>   // alternate for slider range,manual
+              <div className='bg-black h-full  rounded-[10px] '></div>
+            </div>
+            <div className='bg-gray-300 h-1 w-15  rounded-[10px]'>
+              <div className='bg-black h-full  rounded-[10px] '></div>
+            </div>
+            <div className='bg-gray-300 h-1 w-15  rounded-[10px]'>
+              <div className='bg-black h-full  rounded-[10px] '></div>
+            </div>
+            <div className='bg-gray-300 h-1 w-15  rounded-[10px]'>
+              <div className='bg-black h-full  rounded-[10px] '></div>
+            </div> */}
+            
+
+            </div>
+         
 
           {/* star ratings */}
           <div>
@@ -130,6 +149,9 @@ document.querySelector(`.reviews .stars-inner`).style.width = starPercentageRoun
           </div>
 
           {/* percentage */}
+
+          {/* <Star/> */}
+
           <div>
             <p className='interFont font-normal text-[11px] lg:text-[12px] xl:text-[13px] 2xl:text-[16px] pb-[2px] xl:pb-[5px] 2xl:pb-[20px]'>
               70%
@@ -190,6 +212,8 @@ document.querySelector(`.reviews .stars-inner`).style.width = starPercentageRoun
               className='h-14 w-12 lg:h-16 lg:w-14 xl:h-20 xl:w-20 2xl:h-[107px] 2xl:w-[107px]'
             />
           </div>
+
+          
         </div>
       </div>
     </div>

@@ -1,7 +1,7 @@
 'use client'
 import React from 'react'
 
-const Size = () => {
+const Size = () => {  
   return (
     
         <div className="flex justify-between  pb-4 2xl:pb-[24px]">
@@ -30,6 +30,7 @@ const Size = () => {
               SIZE CHART
             </h2>
           </div>
+          
       
     
   )

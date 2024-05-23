@@ -28,8 +28,8 @@ const CheckBox = () => {
           </span>
         </p>
       </div>
-      <div className='flex  pb-2'>
-        <input type='checkbox' />
+      <div className='flex  pb-2 '>
+        <input type='checkbox'  />
         <p className=' interFont font-medium text-[12px] lg:text-[13px] xl:text-[14px] 2xl:text-[16px]  pl-3 2xl:pr-1.5 text-[#293341]'>
           Braided Belt{' '}
         </p>
@@ -39,6 +39,8 @@ const CheckBox = () => {
             <del>₹ 1299</del>
           </span>
         </p>
+
+        
       </div>
     </div>
   )

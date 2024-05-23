@@ -128,7 +128,7 @@ const Like = () => {
                   form, by injected humour
                 </p>
 
-                <div className='flex pb-3  justify-between w-28  2xl:w-32'>
+                <div className='flex pb-3  justify-between w-28  2xl:w-32 2xl:pb-6'>
                   <div
                     onClick={handleColorLike1}
                     className={`flex ${
@@ -159,9 +159,9 @@ const Like = () => {
               </div>
             </div>
 
-            <div className='border-b-2 2xl:pt-5  border-[#EDEDED]'></div>
+            <div className='border-b-2 2xl:pt-5 border-[#EDEDED]'></div>
 
-            <div className='flex justify-between 2xl:pt-5  '>
+            <div className='flex justify-between 2xl:pt-7  '>
               <div className='2xl:mr-4 mt-3'>
                 <div className=' bg-[#164C96] relative h-[18px] w-[18px] lg:h-[19px] lg:w-[19px] xl:h-[20px] xl:w-[20px] 2xl:h-[50px] 2xl:w-[50px]  rounded-[50%]  flex justify-center'>
                   <p className='text-[8px] 2xl:text-[15px] text-white absolute flex  translate-y-[-50%]  top-[50%] justify-center items-center '>
@@ -194,7 +194,7 @@ const Like = () => {
                   from 45 BC, making it over 2000 years old.
                 </p>
 
-                <div className='flex pb-3  justify-between w-28 2xl:w-32'>
+                <div className='flex pb-3  justify-between w-28 2xl:w-32 2xl:pb-6'>
                   <div
                     onClick={handleColorLike2}
                     className={`flex ${
@@ -227,7 +227,7 @@ const Like = () => {
             </div>
             <div className='border-b-2  2xl:pt-5 border-[#EDEDED]'></div>
 
-            <div className='flex justify-between pt-3 2xl:pt-8'>
+            <div className='flex justify-between pt-3 2xl:pt-9'>
               <div className='2xl:mr-4'>
                 <div className=' bg-[#164C96] relative h-[18px] w-[18px] lg:h-[19px] lg:w-[19px] xl:h-[20px] xl:w-[20px] 2xl:h-[50px] 2xl:w-[50px]  rounded-[50%]  flex justify-center'>
                   <p className='text-[8px] 2xl:text-[15px] text-white absolute flex  translate-y-[-50%]  top-[50%] justify-center items-center '>
@@ -264,7 +264,7 @@ const Like = () => {
                   form, by injected humour
                 </p>
 
-                <div className='flex pb-3  justify-between w-28 2xl:w-32'>
+                <div className='flex pb-3  justify-between w-28 2xl:w-32 2xl:pb-6'>
                   <div
                     onClick={handleColorLike3}
                     className={` flex ${
@@ -330,7 +330,7 @@ const Like = () => {
                   from 45 BC, making it over 2000 years old.
                 </p>
 
-                <div className='flex pb-3  justify-between w-28 2xl:w-32'>
+                <div className='flex pb-3  justify-between w-28 2xl:w-32 2xl:pb-6'>
                   <div
                     onClick={handleColorLike4}
                     className={`flex ${
@@ -364,7 +364,7 @@ const Like = () => {
 
             <div className='border-b-2 2xl:pt-5 border-[#EDEDED]'></div>
 
-            <div className='flex justify-between pt-3 2xl:pt-8'>
+            <div className='flex justify-between pt-3 2xl:pt-9'>
               <div className='2xl:mr-4'>
                 <div className=' bg-[#164C96] relative h-[18px] w-[18px] lg:h-[19px] lg:w-[19px] xl:h-[20px] xl:w-[20px] 2xl:h-[50px] 2xl:w-[50px]  rounded-[50%]  flex justify-center'>
                   <p className='text-[8px] 2xl:text-[15px] text-white absolute flex  translate-y-[-50%]  top-[50%] justify-center items-center '>
@@ -508,9 +508,9 @@ const Like = () => {
               </div>
             </div>
 
-            <div className='border-b-2 2xl:pt-5 border-[#EDEDED]'></div>
+            <div className='border-b-2 2xl:pt-7 border-[#EDEDED]'></div>
 
-            <div className='flex justify-between 2xl:pt-8  '>
+            <div className='flex justify-between 2xl:pt-8 '>
               <div className='2xl:mr-4 mt-3'>
                 <div className=' bg-[#164C96] relative h-[18px] w-[18px] lg:h-[19px] lg:w-[19px] xl:h-[20px] xl:w-[20px] 2xl:h-[50px] 2xl:w-[50px]  rounded-[50%]  flex justify-center'>
                   <p className='text-[8px] 2xl:text-[15px] text-white absolute flex  translate-y-[-50%]  top-[50%] justify-center items-center '>

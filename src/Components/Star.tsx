@@ -20,6 +20,7 @@ const Star = () => {
         <div className="stars-inner" style={{ width: starWidth }}></div>
       </div>
     </div> */}
+    
     <div className='bg-yell'>
         <div></div>
     </div>

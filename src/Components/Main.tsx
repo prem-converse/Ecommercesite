@@ -8,7 +8,7 @@ import Increment from './Increment'
 import AddCart from './AddCart'
 import BasicTabs from './BasicTabs'
 import PlusItems from './PlusItems'
-import Star from './Star'
+
 import Star5 from './Star5'
 import UploadPhoto from './UploadPhoto'
 import UploadVideos from './UploadVideos'
@@ -54,6 +54,7 @@ const Main = () => {
 
       <div className='flex ml-[20px] h-full  w-[95%] lg:mt-[20px]  xl:pl-16  '>
         <Range />
+        
 
         <div className='w-1/2  h-full mt-3 ml-12 lg:ml-20 2xl:ml-16   '>
           <Star5 />
