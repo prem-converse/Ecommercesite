@@ -4,7 +4,7 @@ import * as Slider from '@radix-ui/react-slider'
 import Image from 'next/image'
 import { IoStarSharp } from 'react-icons/io5'
 import { IoMdStar } from 'react-icons/io'
-// import Star from '../Components/Star'
+
 
 const Range = () => {
   return (
@@ -111,46 +111,15 @@ const Range = () => {
               </Slider.Root>
             </form>
 
-            
-
-{/* <div className='bg-gray-300 h-1 w-15  rounded-[10px]'>   // alternate for slider range,manual
-              <div className='bg-black h-full  rounded-[10px] '></div>
-            </div>
-            <div className='bg-gray-300 h-1 w-15  rounded-[10px]'>
-              <div className='bg-black h-full  rounded-[10px] '></div>
-            </div>
-            <div className='bg-gray-300 h-1 w-15  rounded-[10px]'>
-              <div className='bg-black h-full  rounded-[10px] '></div>
-            </div>
-            <div className='bg-gray-300 h-1 w-15  rounded-[10px]'>
-              <div className='bg-black h-full  rounded-[10px] '></div>
-            </div> */}
-            
-
             </div>
          
 
-          {/* star ratings */}
+        
           <div>
-            {/* <div className='reviews'>
-      <div className="stars-outer">
-        <div className="stars-inner" style={{ width: starWidth }}>
-        </div>
-      </div>
-    </div> */}
-
-            {/* <div className="reviews">
-    <div className="stars-outer">
-      <div className="stars-inner" style={{ width: starWidth }}></div>
-    </div>
-  </div> */}
-            {/* const starPercentageRounded = `${50}%`;
-document.querySelector(`.reviews .stars-inner`).style.width = starPercentageRounded;  */}
+            
           </div>
 
-          {/* percentage */}
-
-          {/* <Star/> */}
+          
 
           <div>
             <p className='interFont font-normal text-[11px] lg:text-[12px] xl:text-[13px] 2xl:text-[16px] pb-[2px] xl:pb-[5px] 2xl:pb-[20px]'>

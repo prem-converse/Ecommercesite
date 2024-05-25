@@ -69,7 +69,7 @@ const Tshirt = () => {
             width={1000}
             className='h-[446px] w-[345px] lg:h-[477px] lg:w-[387px] xl:h-[498px] xl:w-[440px]  2xl:h-[100%] 2xl:w-[99.5%] '
             alt='Image4'
-            // <IoIosHeartEmpty />
+            
           />
         </div>
       </div>

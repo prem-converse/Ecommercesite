@@ -257,11 +257,7 @@ body {
   text-wrap: nowrap;
 }
 
-/* .imageFocus :focus {
-  outline-color: aqua;
-  height: 112px;
-  width: 100px;
-} */
+
 .imageFocus1:hover {
   outline-color:  #099DBD;
   outline-style: solid; 
@@ -334,7 +330,7 @@ body {
   display: block;
   width: 20px;
   height: 20px;
-  /* background-color: white; */
+ 
   box-shadow: 0 2px 10px var(--black-a7);
   border-radius: 10px;
   visibility: none;
@@ -386,7 +382,5 @@ body {
   
   background-color: #099DBD; 
 }
-.Mui-selected {
-  borderBottomWidth: 2px;
-}
+
 

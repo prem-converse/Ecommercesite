@@ -248,14 +248,7 @@ const Page = () => {
                 </span>{' '}
               </p>
 
-              {/* <span className="flex pb-2 2xl:pt-3">
-          <IoIosStar className="text-[#FFB800]"/>
-          <IoIosStar  className="text-[#FFB800]"/>
-          <IoIosStar  className="text-[#FFB800]"/>
-          <IoIosStar  className="text-[#87878726]" />
-          <IoIosStarOutline className=" text-[#87878726]" />
-
-        </span> */}
+          
 
               <Star5 />
             </div>

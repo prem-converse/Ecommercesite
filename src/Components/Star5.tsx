@@ -42,31 +42,3 @@ const Star5 = () => {
 export default Star5
 
 
-// 'use client'
-// import React, { useState } from 'react';
-// import { IoStar } from 'react-icons/io5';
-
-// const Star5 = () => {
-//   const [stars, setStars] = useState([false, false, false, false, false]);
-
-//   const handleStar = (index) => {
-//     const newStars = stars.map((_, i) => i <= index);
-//     setStars(newStars);
-//   };
-
-//   return (
-//     <div className='flex pb-1 xl:pb-2 xl:pt-1 2xl:pt-2'>
-//       {stars.map((filled, index) => (
-//         <IoStar
-//           key={index}
-//           onClick={() => handleStar(index)}
-//           className={`${
-//             filled ? 'text-[#FFB800]' : 'text-[#87878726]'
-//           } text-[12px] mr-1 xl:text-[14px] 2xl:text-[26px] 2xl:mr-2 `}
-//         />
-//       ))}
-//     </div>
-//   );
-// };
-
-// export default Star5;

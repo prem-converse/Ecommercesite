@@ -39,7 +39,7 @@ const PlusItems = () => {
   }
   return (
     <div className='flex justify-between '>
-      {/* common div */}
+    
       <div>
         <div>
           {content1 ? (
@@ -69,7 +69,7 @@ const PlusItems = () => {
           )}
         </div>
 
-        {/* alternative div for plus icon */}
+       
 
         <div>
           {content2 ? (

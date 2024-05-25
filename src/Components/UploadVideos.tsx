@@ -6,7 +6,7 @@ import { useDropzone } from 'react-dropzone'
 
 const UploadVideos = () => {
   const onDrop = useCallback((acceptedFiles: any) => {
-    // Do something with the files
+    
   }, [])
   const { getRootProps, getInputProps, isDragActive } = useDropzone({ onDrop })
 
