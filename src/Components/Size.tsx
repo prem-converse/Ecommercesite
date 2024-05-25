@@ -1,8 +1,9 @@
+'use client'
 import React from 'react'
 
-const size = () => {
+const Size = () => {  
   return (
-    <div>
+    
         <div className="flex justify-between  pb-4 2xl:pb-[24px]">
             <div className="flex gap-x-1.5 ">
               <button className=" interFont font-semibold text-[10px] lg:text-[11px] xl:text-[12px] 2xl:text-[14px]  hover:text-white  hover:bg-[#099DBD] h-6 w-6 lg:h-7 lg:w-7  xl:h-8 xl:w-9 2xl:h-[40px] 2xl:w-[40px]  2xl:rounded-[10px] rounded-[5px] xl:rounded-[8px]">
@@ -29,10 +30,11 @@ const size = () => {
               SIZE CHART
             </h2>
           </div>
+          
       
-    </div>
+    
   )
 }
 
-export default size
+export default Size
 
